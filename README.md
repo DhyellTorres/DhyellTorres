@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Adryel Torres 
  <div>
   <a href="https://github.com/DhyellTorres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhyellTorres&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhyellTorres&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyellTorres&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
